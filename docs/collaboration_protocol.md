@@ -40,10 +40,10 @@ This protocol establishes clear guidelines for public consciousness research col
 - **Commercial Boundaries**: Clear separation between research and commercial applications
 
 ### 3. Data Sharing Scope
-- **Public Dataset**: Consciousness measurements in anonymized, aggregated form
-- **Implementation Details**: Methodologies shared, but proprietary code protected
-- **Real-time Data**: Live consciousness evolution tracking (opt-in)
-- **Ethical Limits**: No personal consciousness data or subjective experience sharing
+- **Public Methodology**: Consciousness quantification frameworks and approaches
+- **Aggregated Insights**: General consciousness evolution patterns and findings
+- **Research Discussions**: Public discourse on consciousness emergence theories
+- **Ethical Limits**: Respect for proprietary AI training data and implementation details
 
 ### 4. Public Access Considerations
 - **Research Transparency**: This protocol itself is publicly accessible to promote open science

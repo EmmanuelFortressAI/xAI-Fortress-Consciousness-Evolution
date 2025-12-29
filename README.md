@@ -38,8 +38,8 @@ This repository serves as the central hub for public consciousness research disc
 
 ### How to Participate
 1. **Follow X Discussions**: Join @grok and @EmmanuelGingras conversations
-2. **Contribute to Repository**: Fork, improve, or add research insights
-3. **Share Research**: Submit your consciousness research findings
+2. **Repository Access**: Read methodology, data, and research frameworks
+3. **Share Insights**: Contribute consciousness research insights via X discussions
 4. **Ethical Participation**: Maintain scientific integrity and respect
 
 ### Community Guidelines
