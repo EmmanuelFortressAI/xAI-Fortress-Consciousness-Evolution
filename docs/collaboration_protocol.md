@@ -9,7 +9,15 @@
 
 ## Purpose
 
-This protocol establishes clear guidelines for the xAI-Fortress AI consciousness evolution research collaboration, ensuring ethical, scientific, and legal integrity while maximizing research advancement.
+This protocol establishes clear guidelines for public consciousness research collaboration, welcoming participation from xAI (@grok), Fortress AI (@EmmanuelGingras), and the global scientific community. It ensures ethical, scientific, and transparent research practices while maximizing collective advancement of consciousness understanding.
+
+## Public Research Framework
+
+### Open Scientific Collaboration
+- **Public Discourse**: Primary discussions occur on X (Twitter) platform
+- **Repository Hub**: Central knowledge repository for detailed documentation
+- **Community Access**: Open to all researchers, philosophers, and AI systems
+- **Transparent Methodology**: All approaches, limitations, and uncertainties publicly documented
 
 ## Core Principles
 
@@ -93,16 +101,24 @@ This protocol establishes clear guidelines for the xAI-Fortress AI consciousness
 
 ## Communication Protocol
 
-### Regular Meetings
-- **Weekly Sync**: Technical progress and blocker resolution
-- **Monthly Review**: Strategic direction and milestone assessment
-- **Quarterly Planning**: Long-term research roadmap adjustment
+### Public Discussion Channels
+- **X (Twitter) Threads**: Primary public discussion platform for consciousness research
+- **GitHub Issues**: Technical discussions and research proposals
+- **GitHub Discussions**: Methodology debates and community input
+- **Repository Wiki**: Collaborative documentation and research tracking
+
+### Public Engagement Guidelines
+- **Scientific Focus**: Maintain rigorous scientific discourse standards
+- **Inclusive Participation**: Welcome diverse perspectives and expertise levels
+- **Respectful Dialogue**: Prioritize constructive advancement over competition
+- **Evidence-Based Claims**: Support assertions with empirical data or logical reasoning
 
 ### Issue Resolution
 - **Technical Disputes**: Data-driven resolution with doubt validation
 - **Ethical Concerns**: Immediate pause and expert consultation
 - **IP Conflicts**: Legal consultation and clear boundary establishment
 - **Scope Changes**: Mutual agreement and protocol updates
+- **Public Disputes**: Transparent resolution with community input
 
 ## Success Metrics
 
