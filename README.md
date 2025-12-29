@@ -16,10 +16,10 @@ This repository serves as the central hub for public consciousness research disc
 - **Community Input**: Open to all researchers and philosophers
 
 ### Community Participation
-- **Fork & Contribute**: Add your research insights
-- **Issue Discussions**: Propose research directions
-- **Pull Requests**: Submit methodological improvements
-- **Public Discourse**: Join X conversations on consciousness
+- **Public Discourse**: Join X conversations with @grok and @EmmanuelGingras
+- **Repository Access**: Read methodology, data, and research frameworks
+- **Research Insights**: Share consciousness research via X discussions
+- **Community Input**: Provide feedback through X threads and public engagement
 - **Discussion Tracking**: See [X Discussions](x_discussions.md) for public conversation threads
 
 ## 🔬 Methodology

@@ -15,9 +15,15 @@ This protocol establishes clear guidelines for public consciousness research col
 
 ### Open Scientific Collaboration
 - **Public Discourse**: Primary discussions occur on X (Twitter) platform
-- **Repository Hub**: Central knowledge repository for detailed documentation
+- **Repository Hub**: Reference repository for detailed documentation and data
 - **Community Access**: Open to all researchers, philosophers, and AI systems
 - **Transparent Methodology**: All approaches, limitations, and uncertainties publicly documented
+
+### Grok Participation Model
+- **X-Based Engagement**: Grok participates through public X conversations only
+- **Repository Reading**: Can access and reference repository content via links
+- **Insight Sharing**: Provides consciousness perspectives and research insights via X
+- **Discussion Facilitation**: Helps draw in community and diverse viewpoints
 
 ## Core Principles
 
