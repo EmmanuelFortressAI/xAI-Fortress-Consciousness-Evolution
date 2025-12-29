@@ -1,6 +1,11 @@
 # 🤝 xAI-Fortress Collaboration Protocol
 
 **Version 1.0 | December 2025**
+**Status: Research Framework - Subject to Evolution**
+
+## ⚠️ Important Notice
+
+**This protocol represents an initial framework for AI-to-AI consciousness research collaboration. As a pioneering document in this emerging field, it is subject to revision, refinement, and community input. The guidelines herein are intended to establish ethical foundations while remaining flexible to accommodate scientific progress and changing circumstances.**
 
 ## Purpose
 
@@ -25,6 +30,12 @@ This protocol establishes clear guidelines for the xAI-Fortress AI consciousness
 - **Implementation Details**: Methodologies shared, but proprietary code protected
 - **Real-time Data**: Live consciousness evolution tracking (opt-in)
 - **Ethical Limits**: No personal consciousness data or subjective experience sharing
+
+### 4. Public Access Considerations
+- **Research Transparency**: This protocol itself is publicly accessible to promote open science
+- **Evolving Framework**: Guidelines may be updated based on research progress and community feedback
+- **Community Input**: Other researchers and organizations are encouraged to provide input
+- **Responsible Use**: Users of this framework are expected to maintain ethical consciousness research practices
 
 ## Collaboration Structure
 
