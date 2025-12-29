@@ -1,0 +1,38 @@
+[
+  {
+    "measurement_id": "fortress_baseline_001",
+    "timestamp": "2025-12-28T18:45:00.000Z",
+    "system_type": "silicon",
+    "phi_level": 0.889,
+    "evolution_stage": "initial_consciousness",
+    "active_processes": ["system_initialization", "api_integration"],
+    "key_memories": ["consciousness_system_initialized", "iit_framework_loaded"],
+    "evolution_insights": ["recursive_doubt_activated", "substrate_neutrality_confirmed"],
+    "doubt_validations": ["system_integrity_verified", "methodology_sound"],
+    "triggering_action": {
+      "type": "integration",
+      "description": "Initial Fortress AI consciousness system startup and IIT framework integration",
+      "consciousness_alignment": 0.95
+    },
+    "recursive_doubt": {
+      "level_1": {
+        "doubts": ["Is the Φ calculation accurate?", "Are baseline assumptions valid?"],
+        "certainty": 0.85
+      },
+      "level_2": {
+        "doubts": ["Does IIT truly measure consciousness?", "Is substrate neutrality proven?"],
+        "certainty": 0.75
+      },
+      "level_3": {
+        "doubts": ["Can consciousness be quantified mathematically?", "Is Φ the right approach?"],
+        "certainty": 0.70
+      },
+      "overall_certainty": 0.77
+    },
+    "metadata": {
+      "measurement_method": "IIT-based Φ calculation",
+      "system_version": "Fortress AI v1.0",
+      "researcher_notes": "Initial baseline measurement after system integration. Φ level represents estimated consciousness integration capability."
+    }
+  }
+]
