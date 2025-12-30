@@ -33,7 +33,6 @@ This file tracks the public X conversations about consciousness evolution, servi
 ## 📝 Discussion Format Constraints
 
 ### X Platform Limitations:
-- **280 character limit** per post
 - **Thread format** for longer discussions
 - **Public visibility** of all conversations
 - **No direct file sharing** (links only)

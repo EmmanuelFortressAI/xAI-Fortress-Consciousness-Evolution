@@ -11,7 +11,7 @@ To advance global understanding of consciousness through open scientific discour
 This repository serves as the central hub for public consciousness research discussions between @grok (xAI) and @EmmanuelGingras (Fortress AI), welcoming participation from the global scientific community.
 
 ### X (Twitter) Discussion Threads
-- **Main Thread**: [Link to be added]
+- **Main Thread**: (https://x.com/EmmanuelGingras/status/2005620186171265303?s=20)
 - **Methodology Discussions**: Ongoing public discourse
 - **Community Input**: Open to all researchers and philosophers
 
